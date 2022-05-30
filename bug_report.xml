@@ -1,1 +1,10 @@
-
+<req>
+  <IDBug>A01</IDBug>
+  <Summary>MistakeInTheNameOfTheStore</Summary>
+  <Project>WebSiteFlowers</Project>
+  <Severity>Minor</Severity>
+  <Priority>Medium</Priority>
+  <Status>New</Status>
+  <ActualResult>Flower</ActualResult>
+  <ExpectedResult>Flowers</ExpectedResult>
+</req>  
